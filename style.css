@@ -1,0 +1,61 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 0 10%;
+}
+.container {
+  border: 2px solid grey;
+  padding: 10px;
+  margin: 10px auto;
+}
+.color-container {
+  width: 100%;
+}
+.color-panel {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+.coral {
+  background-color: coral;
+  color: #fff;
+}
+.fuchsia {
+  background-color: fuchsia;
+  color: white;
+}
+.steel-blue {
+  background-color: steelblue;
+  color: white;
+}
+.chartreuse {
+  background-color: chartreuse;
+  color: black;
+}
+.font-panel {
+  display: inline-block;
+  width: 45%;
+}
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+.regular {
+  font-style: normal;
+}
+.italic {
+  font-style: italic;
+}
+.bold {
+  font-weight: 700;
+}
+.source-code-pro {
+  font-family: 'Source Code Pro', monospace;
+}
+.nunito-sans {
+  font-family: 'Nunito Sans', monospace;
+}
+.poppins {
+  font-family: 'Poppins', monospace;
+}
